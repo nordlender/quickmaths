@@ -10,4 +10,7 @@ As quickmaths is not yet fully finished for use, here is a small to-do list for 
 - Add user defined snippet file
 - Add themes
 - Add default key bindings, such as CTRL-s for saving
+- Make menu for choosing presets (?)
+- Set cursor position to be inside of editable portion of file when opening quickmaths (within begin/end document)
+- Hide headers, and make it an option to hide or not
 - Improve UI (?)
